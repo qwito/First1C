@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.КонтактныеЛица" id="4e4732e1-d070-4aec-b3af-055b8dab936b" configVersion="ef741e566932df46a9d567380ce896c000000000">
+			<Metadata name="Catalog.КонтактныеЛица.Attribute.Телефон" id="0fce10f7-be39-4358-b147-e333c5ee7bd5"/>
+			<Metadata name="Catalog.КонтактныеЛица.Attribute.Адрес" id="8fbae687-f9e2-4f3e-93c2-89dc7463cc75"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты" id="4c1f0543-9124-497f-8e09-c07256208756" configVersion="6ecf4b686ced2143ab2aab046abcbc6d00000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.КонтактноеЛицо" id="0089a840-63cf-455d-ae6d-24fdf1b7e16d"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="0faf871e-111f-4107-a0fc-a794cc39e58e" configVersion="b32608020c2a844bb0ae4ce9c74b33a200000000"/>
+		<Metadata name="Catalog.Сотрудники" id="e6068984-9082-41e7-ad71-5ae443dc4671" configVersion="af26eac46d78d749bbdbde1c1d9f332700000000"/>
+		<Metadata name="Catalog.ТранспортныеСрества" id="3c245416-7b0e-4b66-a4f6-edf62cade064" configVersion="241166327a7e6343bc15d9284711aa5200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="42bdf286-ba30-4db5-857c-cc669ea10fee" configVersion="7386536fc5c769468bab089371ff175900000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт" id="f78fe06d-a59d-4b9c-8ca7-1ca814b9ac78" configVersion="85601bd429c9dd4881536937dff37abe00000000">
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.КонтактноеЛицо" id="0c02c774-2b3f-428e-8ea2-88ca88c4cbba"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.ДокументОснование" id="2591a7f3-bbd9-4cca-9f30-08ad4622e08b"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.ГрузчикДва" id="410ed0fe-dbb2-4c69-94b5-ee7e0c3d485d"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.ГрузчикОдин" id="5de5c913-d622-49fe-b1ca-19c3311d7bca"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.СтатусЗаявки" id="73fa5c40-4800-4657-846d-f6c59f65ef66"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.Контрагент" id="93dfc402-7bbc-4b99-b0cf-5299b6772761"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.Километраж" id="a5fd8251-d5c4-466b-bcc0-d568890f4344"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.ТранспортноеСредство" id="ba435654-8e31-4197-af59-0d3ac6436838"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.Водитель" id="bafa9369-cdb4-49c6-9d15-5038951d2e17"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.Адрес" id="be711550-f724-4444-b89c-6c70a524bade"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.Телефон" id="d558d6a4-01a5-4115-8b30-5c11d61d7e8d"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Command.ПечатьЗаявки" id="ebf5a2bf-6368-4c0f-baa3-c165f1e3e1b3"/>
+			<Metadata name="Document.ЗаявкаНаТранспорт.Attribute.ДатаДоставки" id="fcd3b464-0e6e-4d20-84fd-e59b7a3a68a8"/>
+		</Metadata>
+		<Metadata name="Document.ЗаявкаНаТранспорт.Command.ПечатьЗаявки.CommandModule" id="ebf5a2bf-6368-4c0f-baa3-c165f1e3e1b3.2" configVersion="51646971c7cc734ea4533767760afa4600000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.Form.ФормаДокумента" id="ebc67753-ad18-4d22-ba3d-4af8e58b6fe9" configVersion="cae947937c89e94da595a037cc2ee6ca00000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.Form.ФормаДокумента.Form" id="ebc67753-ad18-4d22-ba3d-4af8e58b6fe9.0" configVersion="bb13e0e0e968464a96d3d5d642d0eaba00000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.ManagerModule" id="f78fe06d-a59d-4b9c-8ca7-1ca814b9ac78.2" configVersion="661f21ee4d370c47a902ed390341bcb600000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.ObjectModule" id="f78fe06d-a59d-4b9c-8ca7-1ca814b9ac78.0" configVersion="7a9ed1e4a7d450408b48ad7190625eaa00000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.Template.ПечатьЗаявки" id="718d395e-bc1a-4174-8232-bda4e522b208" configVersion="b8e8a42a3d2690408e66ad691a46f78700000000"/>
+		<Metadata name="Document.ЗаявкаНаТранспорт.Template.ПечатьЗаявки.Template" id="718d395e-bc1a-4174-8232-bda4e522b208.0" configVersion="31ead1ae1876ec4f9c148223e05214f900000000"/>
+		<Metadata name="Document.РасходнаяНакладная" id="080009a0-7f44-42b7-b577-48833725ea12" configVersion="f6448968cb4a0a4bbb0a3ae8cb2c420600000000">
+			<Metadata name="Document.РасходнаяНакладная.Attribute.КонтактноеЛицо" id="07a8df03-6c51-4ecd-b8e1-08295dd3c9ac"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="235c95e4-a90d-4dc1-811d-fdf20857ff53"/>
+			<Metadata name="Document.РасходнаяНакладная.Attribute.Контрагент" id="499d2551-73be-4d73-a5e3-2f9699c16965"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары" id="58a09255-2f0f-4bc8-badb-c7a552ca0f80"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="6b35077e-c5de-4df2-a9b0-7fff6be84b87"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Сумма" id="9c83c8be-4c0b-4454-a497-c2aac4aa7203"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="fb34c18f-ccf8-4b7b-a4e0-f90d32b98f29"/>
+		</Metadata>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="36383fd0-1d9c-4010-aeae-37dbabf7bc97" configVersion="27df9fc10046ef498790e66717da651500000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="36383fd0-1d9c-4010-aeae-37dbabf7bc97.0" configVersion="b0f84553c8906744a298235b8f32781000000000"/>
+		<Metadata name="Document.СоставБригады" id="b3bf783a-ae1e-4e1b-a82a-0351454995e1" configVersion="a9e8f4e290bb8142a43d705aaeb8184500000000">
+			<Metadata name="Document.СоставБригады.Attribute.ГрузчикОдин" id="15e5e270-0ce3-4298-84c5-26735bfe7421"/>
+			<Metadata name="Document.СоставБригады.Attribute.Водитель" id="387404a4-0a22-4aba-bde4-6d04835c0ca9"/>
+			<Metadata name="Document.СоставБригады.Attribute.ГрузчикДва" id="3eee5e46-04a1-4c0b-8ee4-95c6006f878a"/>
+			<Metadata name="Document.СоставБригады.Attribute.ДопускВрача" id="552d2569-e09c-4c81-ab54-81c9b299c81d"/>
+			<Metadata name="Document.СоставБригады.Attribute.НачальноеЗначениеПробегаМашины" id="ab8c9ae8-08da-4352-8094-5c076ac5a1e4"/>
+			<Metadata name="Document.СоставБригады.Attribute.ПрохождениеИнструктажаПоТБ" id="ac12aec1-1fa6-4651-8e3e-b101ebb8e27c"/>
+			<Metadata name="Document.СоставБригады.Attribute.ТранспортноеСредство" id="bbe2de84-a3bd-4d97-8bb9-e5df17a0d922"/>
+		</Metadata>
+		<Metadata name="Document.СоставБригады.ObjectModule" id="b3bf783a-ae1e-4e1b-a82a-0351454995e1.0" configVersion="ffe13e9e83ef614f83f3f1cbba5f9bda00000000"/>
+		<Metadata name="Enum.СостояниеЗаказа" id="37c34db0-f246-4073-9001-a796525dca45" configVersion="8347b7372e716b4c87e1eab4d950b80300000000">
+			<Metadata name="Enum.СостояниеЗаказа.EnumValue.ВДорогеОбратно" id="19e6471b-c5b9-4698-9b09-01f07c9add2f"/>
+			<Metadata name="Enum.СостояниеЗаказа.EnumValue.ВПутиККлиенту" id="690b4ee2-0feb-49d4-9cc5-afe1882989f6"/>
+			<Metadata name="Enum.СостояниеЗаказа.EnumValue.НеВыехали" id="827a6b5a-0648-4874-bd2d-0a9f69a812cf"/>
+			<Metadata name="Enum.СостояниеЗаказа.EnumValue.Отработано" id="e7420752-ed09-4746-b650-b066be63d536"/>
+			<Metadata name="Enum.СостояниеЗаказа.EnumValue.УКлиента" id="ea25f9d1-838b-47cf-add4-6f7f2cd0c056"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДанныеВодителей" id="1cae6319-3e9d-4189-83eb-869fee01641d" configVersion="1deb26f5cc822d4f888effda9f63686300000000">
+			<Metadata name="InformationRegister.ДанныеВодителей.Resource.Километраж" id="38e5b1ad-3aee-4450-b93a-1a804a8a0109"/>
+			<Metadata name="InformationRegister.ДанныеВодителей.Dimension.Водитель" id="62573ce4-5324-49f5-9d7a-9d6fd9d862e6"/>
+			<Metadata name="InformationRegister.ДанныеВодителей.Dimension.ДокументОснование" id="a8a590b8-2ed7-489f-aae0-5ad71347d323"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СоставБригад" id="db5b907d-0483-4a92-b9e2-da873e451360" configVersion="a697b9747123ff499f0003bc0a45956700000000">
+			<Metadata name="InformationRegister.СоставБригад.Dimension.ГрузчикОдин" id="025cf09f-46bd-49d8-ba3c-352c9d0ec22a"/>
+			<Metadata name="InformationRegister.СоставБригад.Dimension.Водитель" id="5fc9ba2e-2de3-4e81-aeb3-0151a3f3d7da"/>
+			<Metadata name="InformationRegister.СоставБригад.Dimension.ГрузчикДва" id="6283079e-230c-4ea8-a76b-f564703abc69"/>
+			<Metadata name="InformationRegister.СоставБригад.Dimension.ТранспортноеСредство" id="68147cfd-0e8a-4481-b0fb-149a00f8084d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СтатусыМашин" id="45ddfba5-96b6-4102-a89b-2b3054206f96" configVersion="745214dc931b2949b23e8d7e8c55a83400000000">
+			<Metadata name="InformationRegister.СтатусыМашин.Dimension.ТранспортноеСредство" id="08798105-de8d-4552-8b5b-9f8974897a8c"/>
+			<Metadata name="InformationRegister.СтатусыМашин.Resource.Статус" id="76f1ba9b-9dbd-4a1b-83b2-78659bd3a1c1"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="7a4855d5-2ed7-4e41-8ebd-d3cb271f34e0" configVersion="6da95e597c81a84a80394c76fd079e2a00000000"/>
+		<Metadata name="Report.НахождениеМашины" id="1880b458-2956-4852-ac2f-04f90195bc0b" configVersion="a47473fc4eeb5b4badfc39bedf1fbfcf00000000"/>
+		<Metadata name="Report.НахождениеМашины.Template.ОсновнаяСхемаКомпоновкиДанных" id="0c31b23f-17a1-46a1-a013-34864fdc15c1" configVersion="1fc672d99b8d7d40a8400373aa4b776500000000"/>
+		<Metadata name="Report.НахождениеМашины.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0c31b23f-17a1-46a1-a013-34864fdc15c1.0" configVersion="a42356088720624d8264ba6c644f3a0800000000"/>
+		<Metadata name="Report.ОтчетОБригадах" id="c1c2cf3f-bd35-4b74-ad29-48f13dc8b498" configVersion="99c7ee8826d20c4cb5df96acdcdc94d800000000"/>
+		<Metadata name="Report.ОтчетОБригадах.Template.ОсновнаяСхемаКомпоновкиДанных" id="0878f558-4333-4c46-8241-7c90394244f7" configVersion="451953c1b7902348a74086488271d7fc00000000"/>
+		<Metadata name="Report.ОтчетОБригадах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0878f558-4333-4c46-8241-7c90394244f7.0" configVersion="c2f578866d00da47ba7b6b0b3a8b97dc00000000"/>
+		<Metadata name="Report.ОтчетПоРаботеВодителей" id="095b4e5e-1cef-46f4-b80b-d3b1c7e341dc" configVersion="f22e3f8ca19398408e655b66a4af2ad200000000"/>
+		<Metadata name="Report.ОтчетПоРаботеВодителей.Template.ОсновнаяСхемаКомпоновкиДанных" id="74a8919b-58ff-440c-9900-a3bd98f36280" configVersion="085118a82bec0f43a97090e2fa64305200000000"/>
+		<Metadata name="Report.ОтчетПоРаботеВодителей.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="74a8919b-58ff-440c-9900-a3bd98f36280.0" configVersion="3aaaef059cf4364685edd63cb245426d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
